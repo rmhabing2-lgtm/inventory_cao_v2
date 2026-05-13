@@ -1,0 +1,26 @@
+transaction_id,date,transaction_type,item_name,description,serial_number,property_number,are_par_ics,quantity,from_accountable,to_accountable,reference_no,remarks,location,amount
+TRX-0001,2020-08-03,ISSUE,Airconditioner,"KOLIN 5T Floor mounted",2015910-11147/20161910-11221,2020-07-1169,PAR # 1081-2020-11-1834,1,GSO Inventory,"Fulguerinas, Lily Dawn E.",REF-2020-0001,In use,IA @ near fire exit,99800.00
+TRX-0002,2023-11-30,ISSUE,Computer Laptop,"Aspire Vero i5 series",NXKBNSP00124500DE37600,-,ICS# 23-12-1124,1,GSO Inventory,"Fulguerinas, Lily Dawn E.",REF-2023-0002,Ongoing use,At office/ home,45000.00
+TRX-0003,2023-11-06,ISSUE,Desktop Computer,Asus H510MD,"Motherboard: R7M00Y04B3659RV; Processor: U2XU242801154; SDD: 30072346447",2023-11-0398,PAR # 1081-2024-01-0027,1,GSO Inventory,"Fulguerinas, Lily Dawn E.",REF-2023-0003,Active,currently in use,51900.00
+TRX-0004,2023-11-06,TRANSFER,Desktop Computer,Asus H510MD,"Motherboard: R7M00Y04B58565V; Processor:U24R22K200245; SDD: 30072346479",2023-11-038,PAR# 1081-2024-01-0026,1,"GSO Inventory","Fulguerinas, Lily Dawn E.",REF-2023-0004,Defective,IT Room (chopped),51900.00
+TRX-0005,2023-11-06,ISSUE,Desktop Computer,Asus H510MD,"Motherboard: R7M00Y04B364LD4; Processor: U2N53Y6402175; SDD: 30072346451",2023-11-0389,PAR# 1081-2024-01-0025,1,GSO Inventory,Unknown,REF-2023-0005,Reserved,samson previously,51900.00
+TRX-0006,2023-07-12,ISSUE,Airconditioner,General Royal floor mounted 3 tonner,"GRKT139D050118050; GFB-40FL1N1-OUTDOOR",2023-07-0162,PAR# 1081-2023-07-0472,1,GSO Inventory,"Fulguerinas, Lily Dawn E.",REF-2023-0006,Active,FRID/ near kitchen door,89868.75
+TRX-0007,2023-06-22,ISSUE,Router Board,Router Board,HCW08EYFQKJ/228/r3,-,ICS# 23-07-631,1,GSO Inventory,"Fulguerinas, Lily Dawn E.",REF-2023-0007,Active,Attached to building,1650.00
+TRX-0008,2019-10-11,ISSUE,UPS,APC BX650L1-MS,9B1914A01590,-,ICS# 19-12-574,1,GSO Inventory,"Fulguerinas, Lily Dawn E.",REF-2019-0008,, ,3087.50
+TRX-0009,2017-02-01,ISSUE,Desktop Computer,Custom spec including Intel Core i3-4170,"Intel Core i3-4170: 35637203A1737; Monitor N200SG81A2307812715",2020-02-0616,PAR# 1081-2020-07-1015,1,GSO Inventory,"Fulguerinas, Lily Dawn E.",REF-2017-0009,,renewal of ARE# 1015-2017-08-1181,31100.00
+TRX-0010,2015-03-10,ISSUE,Printer,Laserjet HP1102,VNF7C92163,2015-03-0495,PAR# 1081-2020-07-1019,1,GSO Inventory,"Fulguerinas, Lily Dawn E.",REF-2015-0010,,for PRS (11/11/2025),4650.00
+TRX-0011,2023-11-06,ISSUE,Desktop Computer,Asus H510MD,"Motherboard: R7M00Y04B368YWD; Processor: U2N53Y6403758",2023-05-030-0395-SPO, ,1,GSO Inventory,"Fulguerinas, Lily Dawn E.",REF-2023-0011,Active,CPU- Table of Samantha Cheska Diono,51900.00
+TRX-0012,2023-06-09,ISSUE,Vehicle,L-300 Mitsubishi Polar White,PAEL65MYPPB004392,2023-06-010-0167-CAO,1081-2025-09-0522,1,GSO Inventory,"Fulguerinas, Lily Dawn E.",REF-2023-0012,Active,Parking Area,1350000.00
+TRX-0013,2020-08-03,ISSUE,Television,55" 4k Smart TV,ME9560005,2020-05-020-1170-CAO,PAR #1081-2025-09-0521,1,GSO Inventory,"Fulguerinas, Lily Dawn E.",REF-2020-0013,Active,Conference Room,74300.00
+TRX-0014,2019-10-17,ISSUE,Airconditioner,Kolin Floor mounted 3 tons,20211906-16391/20221906-16529,2019-05-020-2101-CAO,PAR #1081-2025-09-0920,1,GSO Inventory,"Fulguerinas, Lily Dawn E.",REF-2019-0014,Active,FRID Division/Near Sir Rudy table,86795.00
+TRX-0015,2019-10-17,ISSUE,Airconditioner,Kolin Floor mounted 3 tons,20211906-16396/20221906-16561,2019-05-020-2102-CAO,PAR #1081-2025-09-0920,1,GSO Inventory,"Fulguerinas, Lily Dawn E.",REF-2019-0015,Active,Administrative Unit,86795.00
+TRX-0016,2022-04-13,ISSUE,Conference Table,Conference Table,, ,ICS #2025-09-0501,1,GSO Inventory,"Fulguerinas, Lily Dawn E.",REF-2022-0016,, ,14900.00
+TRX-0017,2020-09-04,ISSUE,Desktop,Custom Intel Core i5-9400,AQPK81A003541,2020-CAO-HV-05-030-1232,ICS-2025-09-0493,1,GSO Inventory,Unknown,REF-2020-0017, ,35100.00
+TRX-0018,2020-09-04,ISSUE,Desktop,Custom Intel i5-9400,AQPK81A003533,2020-CAO-HV-05-030-1228,ICS #2025-09-0500,1,GSO Inventory,"Onia, Apple Mae J.",REF-2020-0018,Active,CPU assigned to Onia,35100.00
+TRX-0019,2020-08-12,ISSUE,Projector,X1126AH,MRJR7110070100049A5910,2020-CAO-HV-05-020-1201,ICS #2025-09-0499,1,GSO Inventory,"Fulguerinas, Lily Dawn E.",REF-2020-0019, ,from PAR # 1081-2020-09-1451,37800.00
+TRX-0020,2020-08-03,ISSUE,Airconditioner,Kolin 2.0 HP window type,13831910-16959,2020-CAO-HV-05-020-1166,ICS #2025-09-0498,1,GSO Inventory,Common,REF-2020-0020,Active,IT Unit (Right side),35300.00
+TRX-0021,2020-01-24,ISSUE,Television,Samsung 32'' SMART,05ZD3NAMA02643,2020-CAO-HV-05-020-0157,ICS #2025-09-0497,1,GSO Inventory,Common,REF-2020-0021,Active,Receiving Area,19000.00
+TRX-0022,2019-10-17,ISSUE,Aircondition,Kolin window type 2ph,13831901-15075,2019-CAO-HV-05-020-2103,ICS #2025-09-0496,1,GSO Inventory,Common,REF-2019-0022,Active,Receiving Area,27995.00
+TRX-0023,2017-01-26,ISSUE,Printer,EPSON M201,S2KY020324,2017-01-0192,1081-2020-07-1197,1,GSO Inventory,Unknown,REF-2017-0023,Turnover to GSO dated JAN. 2024, ,9950.00
+TRX-0024,2015-03-10,ISSUE,Printer,HP 1102 Laserjet,VNF7C92154,2015-03-0489,1081-2018-09-1821,1,GSO Inventory,"Asunto, Marylou T.",REF-2015-0024,Active, ,4650.00
+TRX-0025,2015-02-26,ISSUE,Computer Desktop,Core i3-4160 based system,SN: N8440261A2375,2015-03-0406,1081-2020-07-1011,1,GSO Inventory,Unknown,REF-2015-0025,Part of computer set,23840.00

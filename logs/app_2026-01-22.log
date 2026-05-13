@@ -1,0 +1,64 @@
+[2026-01-22 00:04:28] [User:GUEST] [WARNING] Failed login attempt for username/email: mayumi@gmail.com
+[2026-01-22 00:04:33] [User:GUEST] [WARNING] Failed login attempt for username/email: mayumi@gmail.com
+[2026-01-22 00:05:01] [User:1] [INFO] User mac logged in successfully
+[2026-01-22 00:05:01] [User:1] [ERROR] Constant AVATAR_PATH already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 36
+[2026-01-22 00:05:01] [User:1] [ERROR] Constant APP_VERSION already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 37
+[2026-01-22 00:05:42] [User:1] [ERROR] Constant AVATAR_PATH already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 36
+[2026-01-22 00:05:42] [User:1] [ERROR] Constant APP_VERSION already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 37
+[2026-01-22 00:05:47] [User:1] [ERROR] Constant AVATAR_PATH already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 36
+[2026-01-22 00:05:47] [User:1] [ERROR] Constant APP_VERSION already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 37
+[2026-01-22 00:05:54] [User:1] [ERROR] Constant AVATAR_PATH already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 36
+[2026-01-22 00:05:54] [User:1] [ERROR] Constant APP_VERSION already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 37
+[2026-01-22 00:17:22] [User:1] [ERROR] Constant AVATAR_PATH already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 44
+[2026-01-22 00:17:22] [User:1] [ERROR] Constant APP_VERSION already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 45
+[2026-01-22 00:17:26] [User:1] [ERROR] Constant AVATAR_PATH already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 44
+[2026-01-22 00:17:26] [User:1] [ERROR] Constant APP_VERSION already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 45
+[2026-01-22 00:17:26] [User:1] [ERROR] Constant AVATAR_PATH already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 44
+[2026-01-22 00:17:26] [User:1] [ERROR] Constant APP_VERSION already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 45
+[2026-01-22 00:17:27] [User:1] [ERROR] Constant AVATAR_PATH already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 44
+[2026-01-22 00:17:27] [User:1] [ERROR] Constant APP_VERSION already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 45
+[2026-01-22 00:17:37] [User:1] [ERROR] Constant AVATAR_PATH already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 44
+[2026-01-22 00:17:37] [User:1] [ERROR] Constant APP_VERSION already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 45
+[2026-01-22 00:17:47] [User:1] [ERROR] Constant AVATAR_PATH already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 44
+[2026-01-22 00:17:47] [User:1] [ERROR] Constant APP_VERSION already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 45
+[2026-01-22 00:19:54] [User:1] [ERROR] Constant AVATAR_PATH already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 44
+[2026-01-22 00:19:54] [User:1] [ERROR] Constant APP_VERSION already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 45
+[2026-01-22 01:03:39] [User:1] [INFO] User mac logged in successfully from IP: 127.0.0.1
+[2026-01-22 01:03:39] [User:1] [ERROR] Constant AVATAR_PATH already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 44
+[2026-01-22 01:03:39] [User:1] [ERROR] Constant APP_VERSION already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 45
+[2026-01-22 01:05:10] [User:1] [ERROR] Constant AVATAR_PATH already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 44
+[2026-01-22 01:05:10] [User:1] [ERROR] Constant APP_VERSION already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 45
+[2026-01-22 01:05:13] [User:1] [ERROR] Constant AVATAR_PATH already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 44
+[2026-01-22 01:05:13] [User:1] [ERROR] Constant APP_VERSION already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 45
+[2026-01-22 01:05:19] [User:1] [ERROR] Constant AVATAR_PATH already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 44
+[2026-01-22 01:05:19] [User:1] [ERROR] Constant APP_VERSION already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 45
+[2026-01-22 01:07:54] [User:1] [ERROR] Constant AVATAR_PATH already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 44
+[2026-01-22 01:07:54] [User:1] [ERROR] Constant APP_VERSION already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 45
+[2026-01-22 01:08:43] [User:1] [ERROR] Constant AVATAR_PATH already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 44
+[2026-01-22 01:08:43] [User:1] [ERROR] Constant APP_VERSION already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 45
+[2026-01-22 01:08:48] [User:1] [ERROR] Constant AVATAR_PATH already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 44
+[2026-01-22 01:08:48] [User:1] [ERROR] Constant APP_VERSION already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 45
+[2026-01-22 01:08:53] [User:1] [ERROR] Constant AVATAR_PATH already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 44
+[2026-01-22 01:08:53] [User:1] [ERROR] Constant APP_VERSION already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 45
+[2026-01-22 01:10:49] [User:1] [ERROR] Constant AVATAR_PATH already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 44
+[2026-01-22 01:10:49] [User:1] [ERROR] Constant APP_VERSION already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 45
+[2026-01-22 01:11:31] [User:1] [ERROR] Constant AVATAR_PATH already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 44
+[2026-01-22 01:11:31] [User:1] [ERROR] Constant APP_VERSION already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 45
+[2026-01-22 01:18:37] [User:1] [ERROR] Constant AVATAR_PATH already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 57
+[2026-01-22 01:18:37] [User:1] [ERROR] Constant APP_VERSION already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 58
+[2026-01-22 01:18:49] [User:1] [ERROR] Constant AVATAR_PATH already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 57
+[2026-01-22 01:18:49] [User:1] [ERROR] Constant APP_VERSION already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 58
+[2026-01-22 01:20:24] [User:1] [INFO] User mac logged in successfully from IP: 127.0.0.1
+[2026-01-22 01:24:00] [User:1] [IP:127.0.0.1] [ERROR] Constant AVATAR_PATH already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 57
+[2026-01-22 01:24:00] [User:1] [IP:127.0.0.1] [ERROR] Constant APP_VERSION already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 58
+[2026-01-22 01:24:00] [User:1] [IP:127.0.0.1] [INFO] User mac accessed dashboard
+[2026-01-22 01:26:19] [User:1] [IP:127.0.0.1] [INFO] User mac accessed dashboard
+[2026-01-22 01:29:10] [User:1] [IP:127.0.0.1] [INFO] User mac accessed dashboard
+[2026-01-22 01:29:33] [User:1] [IP:127.0.0.1] [ERROR] Constant AVATAR_PATH already defined in C:\xampp\htdocs\inventory_cao_v2\index.php on line 27
+[2026-01-22 01:32:21] [User:1] [IP:127.0.0.1] [INFO] User mac accessed dashboard
+[2026-01-22 01:32:23] [User:1] [IP:127.0.0.1] [INFO] User mac accessed dashboard
+[2026-01-22 01:32:31] [User:1] [IP:127.0.0.1] [INFO] User mac accessed dashboard
+[2026-01-22 01:34:47] [User:1] [IP:127.0.0.1] [INFO] User mac accessed dashboard
+[2026-01-22 01:37:56] [User:1] [IP:127.0.0.1] [INFO] User mac accessed dashboard
+[2026-01-22 01:41:42] [User:1] [IP:127.0.0.1] [INFO] User mac accessed dashboard
+[2026-01-22 01:41:45] [User:1] [IP:127.0.0.1] [INFO] User mac accessed dashboard
